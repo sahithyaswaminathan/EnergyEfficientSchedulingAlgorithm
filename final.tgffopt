@@ -1,0 +1,24 @@
+tg_cnt 1
+task_cnt 10 5
+task_degree 3 2
+period_laxity 1
+tg_write
+eps_write
+vcg_write
+
+table_label COMMUN
+table_cnt 1
+type_attrib exec_time 10 1 
+trans_write
+
+table_label COMMUN1
+table_cnt 1
+type_attrib frequency 20 2
+trans_write
+
+table_label COMMUN2
+table_cnt 1
+type_attrib voltage 10 3
+trans_write
+
+
